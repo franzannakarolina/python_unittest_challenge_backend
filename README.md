@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://revobeautytech.com.br/assinaturas/logo-jfy.png">
-</div>
-
 ---
 
 <div align="center">
